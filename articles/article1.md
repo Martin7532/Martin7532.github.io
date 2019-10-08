@@ -1,3 +1,2 @@
 ---
-article1:"test"
----
+article1: "test"
