@@ -1,5 +1,5 @@
 ---
-article1: "test"
+title: "test"
 prix: "20"
 devise: "€"
 description: "description de l'article test"
