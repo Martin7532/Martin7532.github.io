@@ -1,3 +1,3 @@
 ---
 layout: "row"
-color: "#000"
+color: "#555"
