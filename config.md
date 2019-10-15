@@ -1,4 +1,4 @@
 ---
 layout: 1
-primaryColor: "#555"
-secondaryolor: "#222"
+primaryColor: "#4dabf5"
+secondaryColor: "#f73378"
